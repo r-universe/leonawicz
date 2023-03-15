@@ -1,6 +1,10 @@
 [
   {
-    "package": "imgpalr",
+    "package": "legocolors",
+    "oncran": true
+  },
+  {
+    "package": "trekfont",
     "oncran": true
   },
   {
@@ -8,15 +12,7 @@
     "oncran": true
   },
   {
-    "package": "legocolors",
-    "oncran": true
-  },
-  {
-    "package": "memery",
-    "oncran": true
-  },
-  {
-    "package": "rtrek",
+    "package": "imgpalr",
     "oncran": true
   },
   {
@@ -24,11 +20,15 @@
     "oncran": true
   },
   {
+    "package": "memery",
+    "oncran": true
+  },
+  {
     "package": "trekcolors",
     "oncran": true
   },
   {
-    "package": "trekfont",
+    "package": "rtrek",
     "oncran": true
   }
 ]
