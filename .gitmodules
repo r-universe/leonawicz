@@ -1,45 +1,28 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "imgpalr"]
 	path = imgpalr
 	url = https://github.com/leonawicz/imgpalr
-	shallow = true
-	registered = true
 [submodule "lcars"]
 	path = lcars
 	url = https://github.com/leonawicz/lcars
-	shallow = true
-	registered = true
 [submodule "legocolors"]
 	path = legocolors
 	url = https://github.com/leonawicz/legocolors
-	shallow = true
-	registered = true
 [submodule "memery"]
 	path = memery
 	url = https://github.com/leonawicz/memery
-	shallow = true
-	registered = true
 [submodule "rtrek"]
 	path = rtrek
 	url = https://github.com/leonawicz/rtrek
-	shallow = true
-	registered = true
 [submodule "tabr"]
 	path = tabr
 	url = https://github.com/leonawicz/tabr
-	shallow = true
-	registered = true
 [submodule "trekcolors"]
 	path = trekcolors
 	url = https://github.com/leonawicz/trekcolors
-	shallow = true
-	registered = true
 [submodule "trekfont"]
 	path = trekfont
 	url = https://github.com/leonawicz/trekfont
-	shallow = true
-	registered = true
